@@ -10,7 +10,7 @@ import matplotlib.pyplot as mp
 #import numpy as np
 #from numpy import median
 
-dataset= pn.read_csv(r'C:\Users\samar\gene_table.txt')
+dataset= pn.read_csv(r'gene_table.txt')
 '''
 Different Biotypes
 '''
